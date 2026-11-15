@@ -1,0 +1,2 @@
+name = "docbulk-auth-new"
+main = "worker.js"
